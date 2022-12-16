@@ -8,7 +8,7 @@
 
 <br>
 
-| [Go to App](https://www.cyph3rs.xy/)   |   [Mirror blog](https://mirror.xyz/wearecyph3rs.eth)   |  [Join Discord](https://discord.com/invite/WUzhur787m)   | [Official YouTube](https://www.youtube.com/@cyph3rs) | [Join Telegram](https://t.me/searchers_market)
+| [Go to App](https://www.cyph3rs.xyz/)   |   [Mirror blog](https://mirror.xyz/wearecyph3rs.eth)   |  [Join Discord](https://discord.com/invite/WUzhur787m)   | [Official YouTube](https://www.youtube.com/@cyph3rs) | [Join Telegram](https://t.me/searchers_market)
 | [Official docs](https://docs.cyph3rs.xyz/)  |  [Official Twitter](https://twitter.com/withCyph3rs)  |
 
 <br><br>
