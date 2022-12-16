@@ -1,5 +1,5 @@
 
-# Welcome to Searchers Market
+# Welcome to Cyph3rs
 
 <br>
 
@@ -8,8 +8,8 @@
 
 <br>
 
-| [Go to App](https://www.searchers.market/)   |   [Mirror blog](https://mirror.xyz/searchers-market.eth)   |  [Join Discord](https://discord.com/invite/8cgRqMFR9S)   | [Official YouTube](https://www.youtube.com/@searchers.market) | [Join Telegram](https://t.me/searchers_market)
-| [Official docs](https://docs.searchers.market/)  |  [Official Twitter](https://twitter.com/searchers_mkt)  |
+| [Go to App](https://www.cyph3rs.xy/)   |   [Mirror blog](https://mirror.xyz/wearecyph3rs.eth)   |  [Join Discord](https://discord.com/invite/WUzhur787m)   | [Official YouTube](https://www.youtube.com/@cyph3rs) | [Join Telegram](https://t.me/searchers_market)
+| [Official docs](https://docs.cyph3rs.xyz/)  |  [Official Twitter](https://twitter.com/withCyph3rs)  |
 
 <br><br>
 
