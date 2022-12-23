@@ -15,7 +15,7 @@
 
 |   [Blog](https://mirror.xyz/wearecyph3rs.eth)   | [YouTube](https://www.youtube.com/@cyph3rs) | [Docs](https://docs.cyph3rs.xyz/)  |  
 
-#### Join
+#### Chat
 
 |  [Discord](https://discord.com/invite/WUzhur787m)    | [Telegram](https://t.me/searchers_market) | [Twitter](https://twitter.com/withCyph3rs)  | [Discussions](https://github.com/withCyph3rs/.github/discussions) |
 
