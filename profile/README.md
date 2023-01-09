@@ -1,9 +1,12 @@
 
-# Welcome to Cyph3rs, Anon
+# Welcome to CYPH3RS, anon
 
 
 ### 𝗧𝗵𝗲 𝗺𝗮𝗿𝗸𝗲𝘁𝗽𝗹𝗮𝗰𝗲 𝗳𝗼𝗿 𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿𝘀 𝗮𝗻𝗱 𝗽𝗿𝗼𝘁𝗼𝗰𝗼𝗹𝘀.
-| [Go to App](https://www.cyph3rs.xyz/)  |  [Blog](https://mirror.xyz/wearecyph3rs.eth)   | [YouTube](https://www.youtube.com/@cyph3rs) | [Docs](https://docs.cyph3rs.xyz/)  |    [Discord](https://discord.com/invite/WUzhur787m)    | [Telegram](https://t.me/searchers_market) | [Twitter](https://twitter.com/withCyph3rs)  | [Discussions](https://github.com/withCyph3rs/.github/discussions) |
+
+<br>
+
+| [Go to App](https://www.cyph3rs.xyz/)  |   [Academy](https://academy.cyph3rs.xyz/) | [Blog](https://mirror.xyz/wearecyph3rs.eth)   | [YouTube](https://www.youtube.com/@cyph3rs) | [Docs](https://docs.cyph3rs.xyz/)  |    [Discord](https://discord.com/invite/WUzhur787m)    | [Telegram](https://t.me/searchers_market) | [Twitter](https://twitter.com/withCyph3rs)  |
 
 
 <p align="center">
