@@ -6,7 +6,7 @@
 
 <br>
 
-| [Go to App](https://www.cyph3rs.xyz/)  |   [Go to the Academy](https://academy.cyph3rs.xyz/) | [Blog](https://mirror.xyz/wearecyph3rs.eth)   | [YouTube](https://www.youtube.com/@cyph3rs) | [Docs](https://docs.cyph3rs.xyz/)  |    [Discord](https://discord.com/invite/WUzhur787m)    | [Telegram](https://t.me/searchers_market) | [Twitter](https://twitter.com/withCyph3rs)  |
+| [Go to App](https://www.cyph3rs.xyz/)  |   [Go to the Academy](https://academy.cyph3rs.xyz/) | [Mirror](https://mirror.xyz/wearecyph3rs.eth)   | [YouTube](https://www.youtube.com/@cyph3rs) | [Docs](https://docs.cyph3rs.xyz/)  |    [Discord](https://discord.com/invite/WUzhur787m)    | [Telegram](https://t.me/searchers_market) | [Twitter](https://twitter.com/withCyph3rs)  |
 
 
 <p align="center">
